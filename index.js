@@ -1,6 +1,6 @@
 //Algorithm
 // 1. Declare a function named stripUppercase() that takes in parameters.
-// 2. Declare a variable for the new string and let it be empty.
+// 2. Declare a variable named newString and let it be empty.
 // 3. Create a for loop to iterate through the string.
 // 4. Check if the character is NOT a capital letter.
 // 5. Add the character to end of the newString.
@@ -15,4 +15,4 @@ function stripUppercase(string) {
   }
   return newString;
 }
-console.log(stripUppercase("SHAwn")); //output: "wn"
+console.log(stripUppercase("Mighty Morphin' Power Rangers")); //output: "ighty orphin' ower angers"
