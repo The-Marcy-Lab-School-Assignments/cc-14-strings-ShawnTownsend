@@ -15,4 +15,4 @@ function stripUppercase(string) {
   }
   return newString;
 }
-console.log(stripUppercase("Hello!")); //output: "ello!"
+console.log(stripUppercase("SHAwn")); //output: "wn"
